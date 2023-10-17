@@ -5,3 +5,4 @@ data class DemoModel(
     val status: Boolean,
     val successMessage: String
 )
+
